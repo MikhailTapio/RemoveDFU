@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[38,)"
+license = "Creative Commons 3.0 BY-NC-SA"
+[[mods]]
+modId = "rdfu"
+version = "1.0.0"
+displayName = "RemoveDataFixerUpper"
+credits = ""
+authors = [
+    "Vazkii",
+    "Tapio"
+]
+description = '''
+'''
